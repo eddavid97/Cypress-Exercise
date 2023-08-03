@@ -13,5 +13,8 @@
     "cypress"
   ],
   "author": "Edgar Camacho",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
 }
